@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Fatima Mughal
+### Frontend Developer | Passionate about building beautiful, responsive web apps
+
+🌱 I’m currently learning  
+- Backend Development
+-  AI   
+
+💬 Ask me about  
+HTML , CSS.
+
 
 <!--
 **mughal924/mughal924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
