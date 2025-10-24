@@ -2,7 +2,7 @@
 ### Frontend Developer | Passionate about building beautiful, responsive web apps
 
 🌱 I’m currently learning  
-- Backend Development
+- Frontend Development
 -  AI   
 
 💬 Ask me about  
