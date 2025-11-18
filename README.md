@@ -3,7 +3,8 @@
 
 🌱 I’m currently learning  
 - Frontend Development
--  AI   
+-  AI
+-  GSAP  
 
 💬 Ask me about  
 HTML , CSS.
