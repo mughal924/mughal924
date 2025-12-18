@@ -4,7 +4,9 @@
 🌱 I’m currently learning  
 - Frontend Development
 -  AI
--  GSAP  
+-  GSAP
+-  Cyber security 
+-  [Java script Project](https://mughal924.github.io/Js-projects/)
 
 💬 Ask me about  
 HTML , CSS.
