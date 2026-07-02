@@ -7,7 +7,7 @@
 -  GSAP
 -  Cyber security
 -  My js projects 👇
--  [Java script Projects](https://mughal924.github.io/Js-projects/)
+-  [Java script Projects](https://mughal924.github.io/Js-projects)
 
 💬 Ask me about  
 HTML , CSS.
